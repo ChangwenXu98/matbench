@@ -6,10 +6,9 @@
     "notes": "",
     "requirements": {
       "python":  [
-        "chgnet==0.3.8", 
-        "matbench==0.6",
         "matminer==0.7.4",
-        "monty==2022.4.26"
+        "chgnet==0.3.8", 
+        "matbench==0.6"
       ]
     }
   }
